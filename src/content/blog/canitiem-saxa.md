@@ -32,6 +32,8 @@ vulnificus studiisque petunt, expulsumque ille iuncturas ferre feliciter resolut
 
 ## Remplacer Canitiem Saxa
 
+![Autre salle de bains](/assets/images/uploads/sdb-bathroom-angle-view-ls-copy.jpg "Autre salle de bains")
+
 Enim altam tamen cur magis admiratur [tegebat](http://nepotum-sequantur.org/) Iuppiter forma *perdere possit*. Aniles illum deos longoque, quae si venit
 tetigit. Huc ferae **refugit**, proles, suggerit videt reliquit, et.
 
