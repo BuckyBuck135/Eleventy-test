@@ -9,7 +9,7 @@ tags:
 image: /assets/images/uploads/sdy-bathroom.jpg
 imageAlt: Salle de bains
 ---
-# Remplacer Canitiem Saxa
+# faut-il push pour update le contenu ?
 
 Lorem markdownum trabeati dicere [deus](http://www.aetatis.org/pugnacem.html) traxit certus Scythiam certum, illi mulces. Et nihil dolores? Si scopulis somnus
 pinguis cadentem, commemorare humanas nepotum [nec doce](http://totoalbi.com/suisfactis), Aiax ipsum! Gente conatur committere esse *efficiens* fuerat, armis
