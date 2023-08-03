@@ -1,41 +1,13 @@
-<br/>
-<p align="center">
-  <a href="https://codestitch.app/">
-    <img src="https://codestitch.app/frontend/images/icon.png" alt="Logo" width="80" height="80">
-  </a>
+## Change log
+- modified data/client.json
+- modified includes/components/footer => removed state and address line 2
+- modified admin/config.yml => Labels in French
+- modified 1 blog post through dashboard => SUCCESS
 
-  <h3 align="center">Intermediate Starter Kit (SASS)</h3>
-
-  <p align="center">
-    Introducing the official intermediate starter kit, presented by CodeStitch. This kit includes a pre-configured Eleventy setup that utilizes Nunjucks templating, along with a seamless integration of Decap CMS, providing an easy way to manage a blog. Everything is ready to go right from the start, offering a fantastic introduction to the advantages of a Static Site Generator, complete with SASS preprocessing.
-    <br/>
-    <br/>
-    <a href="https://github.com/CodeStitchOfficial/Intermediate-Website-Kit-LESS">LESS Starter Kit</a>
-    .
-    <a href="https://codestitch-intermediate.netlify.app/">View Live Result</a>
-    .
-    <a href="https://www.youtube.com/watch?v=0BNCYM4InT0&t">Watch Video</a>
-    .
-    <a href="https://codestitch.app/contact">Report Bug</a>
-  </p>
-</p>
-
-## Table of Contents
-
--   [Overview](#overview)
--   [Prerequisites](#prerequisites)
--   [File Structure](#fileStructure)
-    -   [Root Files and Folders](#rootFilesAndFolders)
-    -   [Source Files and Folders](#sourceFilesAndFolders)
--   [Getting Started](#gettingStarted)
--   [Expanding the Project](#expandingTheProject)
-    -   [Reusing Code](#reusingCode)
-    -   [Adding More Pages](#addingMorePages)
-    -   [Navigation via Front Matter](#navigationViaFrontMatter)
-    -   [Configuring the CMS](#configuringTheCms)
--   [Deployment](#deployment)
-
-<a name="overview"></a>
+- changed config.yml media folders
+media_folder: "public/assets/images/uploads"
+public_folder: "/assets/images/uploads"
+- changed media paths for .md posts in src/content/blog .md posts
 
 ## Overview
 
