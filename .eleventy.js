@@ -3,6 +3,12 @@ const eleventyNavigationPlugin = require('@11ty/eleventy-navigation');
 const { DateTime } = require('luxon');
 
 module.exports = function (eleventyConfig) {
+
+	// Define the Decap CMS collection
+	eleventyConfig.addCollection("about", function (collectionApi) {
+		return collectionApi.getFilteredByTag("about");
+	  });
+	  
 	// adds the official eleventy navigation plugin for a scalable navigation
 	eleventyConfig.addPlugin(eleventyNavigationPlugin);
 

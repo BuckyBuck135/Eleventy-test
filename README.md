@@ -9,6 +9,10 @@ media_folder: "public/assets/images/uploads"
 public_folder: "/assets/images/uploads"
 - changed media paths for .md posts in src/content/blog .md posts
 
+ -- adding CMS to other pages --
+ - create new collection in config.yml
+ - either before or after creating a test post in the new collection: it will add a folder and a .md file under specified path
+ - add a .json file
 ## Overview
 
 The intermediate starter kits build off the beginner kits, mainly by including a pre-configured <a href="https://www.11ty.dev">Eleventy</a> environment, which

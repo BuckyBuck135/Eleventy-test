@@ -25,9 +25,9 @@ collections:
       - { label: "Légende", name: "imageAlt", widget: "string" }
       - { label: "Corps", name: "body", widget: "markdown" }
   
-  - name: "a-propos"
+  - name: "about"
     label: "A propos"
-    folder: "src/content/a-propos"
+    folder: "src/content/about"
     create: true
     slug: "{{slug}}"
     fields:
